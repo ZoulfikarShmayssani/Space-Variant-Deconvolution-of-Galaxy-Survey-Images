@@ -4,7 +4,7 @@
 
 Removing the aberrations introduced by the point spread function (PSF) is a fundamental aspect of astronomical image processing. The presence of noise in observed images makes deconvolution a nontrivial task that necessitates the use of regularisation. This task is particularly difficult when the PSF varies spatially as is the case for the Euclid telescope.
 
-**Note: The explanation of the methods used is fully explained in the Report section** 
+**Note: The explanation of the methods used and the results can be found in the Report section** 
 
 ## Work done
 
