@@ -17,6 +17,10 @@ Data set available at: http://www.cosmostat.org/software/sf_deconvolve
 
 Performance is assessed by examining the deconvolved galaxy image pixels and shapes. The results demonstrate that for small samples of galaxies sparsity performs better in terms of pixel and shape recovery, while for larger samples of galaxies it is possible to obtain more accurate estimates of the galaxy shapes using the low-rank approximation.
 
+![](Images/results.PNG)
+![](Images/LRcost.PNG)
+![](Images/sparsecost.PNG)
+
 
 
 ## References
